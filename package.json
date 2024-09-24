@@ -1,0 +1,19 @@
+{
+  "name": "pumpfun_vbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/bs58": "^4.0.4",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.3",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}
