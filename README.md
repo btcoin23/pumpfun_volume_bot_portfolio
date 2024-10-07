@@ -5,7 +5,7 @@ This is a Pump.fun volume bot that can increase the volume of a specific Pump.fu
 
 ![image](https://github.com/user-attachments/assets/fc57859d-0e89-4cf2-be98-81b22c4ccc5b)
 
-## Main function (Fast, Low Fee, Effeciency)
+## Main functions (Fast, Low Fee, Effeciency)
 
 - Analyze the specific pumpfun token's details including its `bondingCurve`, `associatedVondingCurve`, `virtualTokenReserve` and `virtualSolReserve`, etc.
 
