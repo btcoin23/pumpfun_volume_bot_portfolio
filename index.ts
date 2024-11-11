@@ -1,3 +1,1 @@
-// contact the auther to get the code
-//
-//
+// contact the auther to get the full codebase
